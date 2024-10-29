@@ -1,0 +1,15 @@
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node modules (if any)
+node_modules/
